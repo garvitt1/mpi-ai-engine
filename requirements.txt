@@ -1,0 +1,9 @@
+chromadb
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+sentence-transformers==5.1.2
+transformers==4.46.3
+numpy<2
+torch==2.2.2
+pytest
